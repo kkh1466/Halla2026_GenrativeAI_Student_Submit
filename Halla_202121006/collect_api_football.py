@@ -1,0 +1,6 @@
+soccerdata>=1.9.0
+pandas>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+openai>=1.30.0
+streamlit>=1.35.0

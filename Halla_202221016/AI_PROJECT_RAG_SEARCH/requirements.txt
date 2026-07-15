@@ -1,0 +1,15 @@
+pypdf
+openpyxl
+python-docx
+python-pptx
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+streamlit
+pywin32; platform_system == "Windows"
+reportlab
